@@ -1,8 +1,12 @@
 import json
 from openai import OpenAI
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+api_key = os.getenv('OPENAI_API_KEY')
 def callGPT3(filePath="preprocessed_text.txt", systemPrompt="", userPrompt=""):
-    client = OpenAI(api_key="sk-proj-CL6KrFv2wxJfxs2jI68yT3BlbkFJQ5b6UNH252qwWn4cEkPF")
+    client = OpenAI(api_key=api_key)
     with open(filePath, 'r') as f:
         txt = f.read()
 

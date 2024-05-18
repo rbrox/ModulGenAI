@@ -2,82 +2,82 @@
     "questions": [
         {
             "questionType": "TRUE-FALSE",
-            "question": "BTS was formed in 2010.",
-            "answerType": "TRUE-FALSE",
+            "question": "Is Lord Bhagavan the Supreme Personality of Godhead?",
             "answer": "TRUE"
         },
         {
             "questionType": "TRUE-FALSE",
-            "question": "BTS stands for Bulletproof Boy Scouts.",
-            "answerType": "TRUE-FALSE",
+            "question": "Is Arjuna an impure person?",
+            "answer": "FALSE"
+        },
+        {
+            "questionType": "TRUE-FALSE",
+            "question": "Is knowing the value of life important to lead to a higher planet?",
             "answer": "TRUE"
         },
         {
             "questionType": "TRUE-FALSE",
-            "question": "BTS has received Grammy nominations.",
-            "answerType": "TRUE-FALSE",
+            "question": "Is Bhagavan the ultimate Absolute Truth?",
             "answer": "TRUE"
         },
         {
             "questionType": "TRUE-FALSE",
-            "question": "BTS performed at Wembley Stadium.",
-            "answerType": "TRUE-FALSE",
-            "answer": "TRUE"
-        },
-        {
-            "questionType": "TRUE-FALSE",
-            "question": "BTS released their debut single album in 2013.",
-            "answerType": "TRUE-FALSE",
+            "question": "Is Brahman one of the phases of understanding the Absolute Truth?",
             "answer": "TRUE"
         },
         {
             "questionType": "MCQ",
-            "question": "Who is the oldest member of BTS?",
-            "answerType": "MCQ",
-            "answer": [
-                "Jin",
-                "RM",
-                "Jimin"
-            ]
+            "question": "Who is referred to as the Supreme Personality of Godhead in the text?",
+            "options": [
+                "Krishna",
+                "Arjuna",
+                "Brahma",
+                "Shiva"
+            ],
+            "answer": "Krishna"
         },
         {
             "questionType": "MCQ",
-            "question": "Which South Korean boy band became the first to receive a Gold certification from the RIAA in the United States?",
-            "answerType": "MCQ",
-            "answer": [
-                "BTS",
-                "EXO",
-                "BLACKPINK"
-            ]
+            "question": "What are the three phases of understanding the Absolute Truth mentioned in the text?",
+            "options": [
+                "Brahman, Paramatma, Vishnu",
+                "Brahma, Shiva, Devi",
+                "Satyam, Shivam, Sundaram",
+                "Brahman, Paramatma, Bhagavan"
+            ],
+            "answer": "Brahman, Paramatma, Bhagavan"
         },
         {
             "questionType": "MCQ",
-            "question": "In which year did BTS become the first South Korean act to reach number one on the Billboard Hot 100?",
-            "answerType": "MCQ",
-            "answer": [
-                "2020",
-                "2018",
-                "2023"
-            ]
+            "question": "Which aspect of the sun is compared to realizing the personal feature of the Supreme Absolute Truth?",
+            "options": [
+                "Sunshine",
+                "Sun's surface",
+                "Inner affair of the sun planet",
+                "None of the above"
+            ],
+            "answer": "Inner affair of the sun planet"
         },
         {
             "questionType": "LONG ANSWER",
-            "question": "Describe the musical evolution of BTS from their debut album to their latest releases.",
-            "answerType": "LONG ANSWER",
-            "answer": "The musical evolution of BTS started with a focus on hip-hop in their debut album, but over the years, they have expanded their musical style to incorporate a wide range of genres. Their lyrics have touched on various subjects including mental health, self-love, and the journey towards individualism. BTS has experimented with different styles of music and their sound has evolved to include elements of electro-pop and hip-hop in their more recent releases."
+            "question": "Explain the concept of Bhagavan as the Supreme Personality of Godhead according to the text.",
+            "answer": "Bhagavan is described as the ultimate Absolute Truth who posses richness, strength, fame, beauty, knowledge, and renunciation. Krishna is identified as the Supreme Personality of Godhead, and all living entities, including Brahma, Lord Shiva, and Narayana, derive their opulence from Krishna. The text highlights that Bhagavan is the source of all incarnations and is the cause of all causes."
         },
         {
-            "questionType": "APPLICATION BASED",
-            "question": "How did BTS break records with their album sales in South Korea?",
-            "answerType": "APPLICATION BASED",
-            "answer": "BTS broke records with their album sales in South Korea by achieving high pre-order numbers, reaching millions in sales within the first month of release, and topping charts both domestically and internationally. Additionally, their ability to attract massive crowds to their concerts and fan meetings contributed to their record-breaking album sales."
+            "questionType": "LONG ANSWER",
+            "question": "Describe the three phases of understanding the Absolute Truth as explained in the text.",
+            "answer": "The text explains the three phases of understanding the Absolute Truth as Brahman, the impersonal all-pervasive spirit; Paramatma, the localized aspect of the Supreme within the heart of the living entity; and Bhagavan, the Supreme Personality of Godhead. It emphasizes that Bhaktas, or transcendentalists, realize Bhagavan as the topmost transcendental feature of the Absolute Truth."
         },
         {
-            "questionType": "APPLICATION BASED",
-            "question": "Discuss the significance of BTS being the first Korean act to reach number one on the Billboard Hot 100.",
-            "answerType": "APPLICATION BASED",
-            "answer": "BTS reaching number one on the Billboard Hot 100 marked a significant milestone for Korean music globally. It showcased the group's growing popularity and influence beyond South Korea, breaking barriers in the American music market. This achievement not only solidified BTS's position as a global phenomenon but also paved the way for more international recognition of Korean music and artists."
+            "questionType": "LONG ANSWER",
+            "question": "Why is knowing the value of life important according to the text?",
+            "answer": "Knowing the value of life is considered important because it leads to a higher planet and helps in avoiding infamy. The text suggests that persons who understand the spiritual realization and aim of life are known as Aryans, while those captivated by external material features and lacking in spiritual knowledge are termed non-Aryans. It also highlights that failure to adhere to prescribed duties can hinder spiritual progress and lead to acts of cowardice."
         }
     ],
-    "summary": "BTS, also known as Bangtan Boys, is a South Korean boy band formed in 2010. The group consists of Jin, Suga, J-Hope, RM, Jimin, V, and Jungkook. They have achieved significant success both in South Korea and internationally, with multiple accolades and achievements in the music industry. BTS's musical evolution has seen them explore different genres and themes in their lyrics, touching on subjects like mental health, self-love, and individualism. Their impact on the global music scene, including reaching number one on the Billboard Hot 100, has solidified their position as one of the most influential acts in the industry."
+    "summary": "The text discusses the concept of Bhagavan as the Supreme Personality of Godhead, the three phases of understanding the Absolute Truth, and the importance of knowing the value of life. It emphasizes the significance of realizing Bhagavan as the ultimate Absolute Truth and highlights the distinctions between Aryans and non-Aryans based on spiritual understanding and material captivation.",
+    "title": "Understanding Bhagavan and the Absolute Truth",
+    "HOTS": [
+        "Conceptual Understanding",
+        "Spiritual Realization"
+    ]
 }
